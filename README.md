@@ -1,4 +1,10 @@
-## 👋 Hi there! I'm a full-stack developer and professional musician with a passion for building dynamic web applications. My tech stack includes JavaScript, Node.js, Express, PostgreSQL, Sequelize, JWT, as well as HTML, CSS, and React on the frontend. I'm always learning and exploring new technologies to level up my skills. Let's connect and collaborate on exciting projects!
+## Hi there!👋 ##
+### My name is Marek. ###
+
+**I'm a full-stack developer and professional musician with a passion for building dynamic web applications. My tech stack includes JavaScript, Node.js, Express, PostgreSQL, Sequelize, JWT, as well as HTML, CSS, and React on the frontend. I'm always learning and exploring new technologies to level up my skills. Let's connect and collaborate on exciting projects!**
+
+## My statistics ##
+<sub>Updated every 24h</sub>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
