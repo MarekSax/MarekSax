@@ -21,4 +21,5 @@ jobs:
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "Update statistics"
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROJECTS: "False"
           
