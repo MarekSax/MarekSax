@@ -8,6 +8,42 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.1%20thousand%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1159 commits        █████████████░░░░░░░░░░░░   50.04 % 
+🌆 Daytime                841 commits         █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌃 Evening                275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+🌙 Night                  41 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   457 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Tuesday                  337 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Wednesday                329 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Thursday                 407 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Friday                   305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Saturday                 27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Sunday                   454 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -20,7 +56,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 00:54:44 UTC
+ Last Updated on 02/12/2024 00:54:15 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
