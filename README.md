@@ -8,6 +8,42 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2890 commits        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+🌆 Daytime                3487 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌃 Evening                3287 commits        ████████░░░░░░░░░░░░░░░░░   32.82 % 
+🌙 Night                  351 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1890 commits        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Tuesday                  1335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                1777 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Thursday                 1437 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Friday                   1221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Saturday                 670 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Sunday                   1685 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -19,7 +55,7 @@ HTML                     3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 00:51:47 UTC
+ Last Updated on 31/08/2025 00:52:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
