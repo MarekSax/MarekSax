@@ -6,7 +6,43 @@
 ## My statistics ##
 <sub>Updated every 24h</sub>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.84%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4740 commits        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+🌆 Daytime                4757 commits        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+🌃 Evening                6959 commits        ██████████░░░░░░░░░░░░░░░   40.89 % 
+🌙 Night                  561 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2509 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Tuesday                  5427 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
+Wednesday                2785 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Thursday                 1938 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Friday                   1720 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Saturday                 1052 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Sunday                   1586 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -20,7 +56,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 01:24:56 UTC
+ Last Updated on 16/05/2026 01:18:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
